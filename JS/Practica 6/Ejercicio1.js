@@ -20,3 +20,6 @@ console.log(min);
 
 console.log("######Second Array######");
 console.log(array2);
+
+console.log("######First Array######");
+console.log(array1);
